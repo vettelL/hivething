@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"github.com/derekgr/hivething/TCLIService"
+	"github.com/vettelL/hivething/TCLIService"
 )
 
 // Options for opened Hive sessions.
